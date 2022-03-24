@@ -1,1 +1,1 @@
-<u>Will be updated soon<u>
+<b>Will be updated soon<b>
